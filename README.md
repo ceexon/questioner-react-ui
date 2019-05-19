@@ -1,2 +1,5 @@
-# questioner-react-ui
-Fetching Questipner-API-V2 with React and creating a simple UI
+# Questioner React UI
+
+Meetups Like Application (Questioner) UI
+
+Fetching Using React my [Questioner-Api-V2](https://github.com/kburudi/Questioner-Api-V2) Backend which is in Python(Flask) and using Postgres Database
